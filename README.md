@@ -1,1 +1,1 @@
-# Simple-RBC-Model-Simulation-in-R
+# Simple_RBC_Model_Simulation_in_R_gEcon
