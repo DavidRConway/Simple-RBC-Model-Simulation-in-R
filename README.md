@@ -1,1 +1,2 @@
 # Simple_RBC_Model_Simulation_in_R_w_gEcon
+Simple RBC model simulation coded for intermediate macroeconomics class paper.
