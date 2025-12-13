@@ -5,7 +5,7 @@ Polish Ministry of Finance. The package allows users to solve and simulate DSGE 
 formulating them as a set of optimization problems faced by agents within the model. Below, 
 I provide:
 
-  I. An explanation of the contents of 'Writing_Sample_RBC_Simulation'
+  I. An explanation of the contents of 'Writing_Sample_RBC_Simulation' \\
   II. A brief note on how to download and run gEcon (NB: running any of my code will require gEcon)
 
 
